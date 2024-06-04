@@ -1,0 +1,18 @@
+name = "week-13-offline"
+compatibility_date = "2023-12-01"
+
+[vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiZTI1NTI3YTEtMDQwNy00YzZlLWI2ZWMtZWM1YTU2NDYxNjA0IiwidGVuYW50X2lkIjoiNTIzM2ZjNGVjMTY3ZjExNmVkNGEwMDNmNjMyNGVmYzdjMzcyNGI2MjI5ODhiMTQyNzI4MTRmYTkyMWYzN2QxYyIsImludGVybmFsX3NlY3JldCI6IjVkY2RkOTM0LTIwYTItNGE4Mi05MTY4LWQ3NDcwNjQzYzMzNyJ9.sIYosN8u5TNc8JsMRDzHK3mCyYArOCGWUXNskZw72p0"
+JWT_SECRET = "asdasdasd"
+# [[kv_namespaces]]
+# binding = "MY_KV_NAMESPACE"
+# id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+# [[r2_buckets]]
+# binding = "MY_BUCKET"
+# bucket_name = "my-bucket"
+
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "my-database"
+# database_id = ""
